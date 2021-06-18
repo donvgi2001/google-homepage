@@ -1,0 +1,25 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+li {
+    display: inline;
+    padding: 8px;
+    font-size: 12px;
+}
+.right {
+    float: right;
+}
+
+#google {
+    margin-top: 10.5em;
+    margin-left: 41%;
+}
+
+.search {
+    font-size: 16px;
+    margin-top: 4em;
+    margin-left: 30em;
+    width: 25%;
+}
